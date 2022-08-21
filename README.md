@@ -15,6 +15,3 @@ You should build something like this:
 
 ### PAGE DESIGN MOBILE
 ![page design - mobile](./page_design_mobile.svg)
-<img src="./controllers_brief.svg">
-
-
