@@ -13,5 +13,14 @@ Build a search application that:
 ## OUTCOME:
 You should build something like this:
 
+
+## DESIGNS:
+
+### PAGE DESIGN DESKTOP
+![page design desktop view](./page_design_desktop.svg)
+
+### PAGE DESIGN DESKTOP WITH MODAL OPEN
+![page design desktop view with modal open](./page_design_desktop_modal.svg)
+
 ### PAGE DESIGN MOBILE
-![page design - mobile](./page_design_mobile.svg)
+![page design mobile view](./page_design_mobile.svg)
