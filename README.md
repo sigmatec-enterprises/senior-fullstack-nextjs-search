@@ -11,7 +11,7 @@ Build a search application that:
 
 
 ## OUTCOME:
-You should build something like this:
+The application you'll build should look something like this:
 
 ### PAGE DESIGN DESKTOP
 ![page design desktop view](./page_design_desktop.svg)
@@ -57,6 +57,7 @@ This is a simple application however...
 - [ ] Dockerise your application and any services
 
 If this sounds too simple for you, add some additional features to this plain and boring App, you are more than welcome to.
+This is your opportunity to put your best foot forward, note that everything will be taken into account.
 
 
 **Good luck and have fun!**
