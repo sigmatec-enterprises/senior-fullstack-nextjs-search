@@ -13,8 +13,6 @@ Build a search application that:
 ## OUTCOME:
 You should build something like this:
 
-## DESIGNS:
-
 ### PAGE DESIGN DESKTOP
 ![page design desktop view](./page_design_desktop.svg)
 
