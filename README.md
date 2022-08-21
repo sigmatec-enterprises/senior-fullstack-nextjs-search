@@ -1,6 +1,6 @@
 # senior-fullstack-nextjs-search
 
-## DESCRIPTION:
+## Description:
 Build a search application that:
 
 - searches on a collection of photo data
@@ -9,21 +9,33 @@ Build a search application that:
   - [GraphQL](https://graphql.org/) option: https://graphqlzero.almansi.me/
   - [Rest API](https://en.wikipedia.org/wiki/Representational_state_transfer) option: http://jsonplaceholder.typicode.com/
 
+The application you'll build should look something like these designs.
 
-## OUTCOME:
-The application you'll build should look something like this:
+### Designs:
 
-### PAGE DESIGN DESKTOP
-![page design desktop view](./page_design_desktop.svg)
+<details>
+  <summary>Desktop</summary>
 
-### PAGE DESIGN DESKTOP WITH MODAL OPEN
-![page design desktop view with modal open](./page_design_desktop_modal.svg)
+  ![page design desktop view](./page_design_desktop.svg)
+  
+</details>
 
-### PAGE DESIGN MOBILE
-![page design mobile view](./page_design_mobile.svg)
+<details>
+  <summary>Desktop with Modal open</summary>
+
+  ![page design desktop view with modal open](./page_design_desktop_modal.svg)  
+
+</details>
+
+<details>
+  <summary>Mobile</summary>
+
+  ![page design mobile view](./page_design_mobile.svg)
+
+</details>
 
 
-## TECHNICAL REQUIREMENTS:
+## Technical Requirements:
 
 This is a simple application however...
 
