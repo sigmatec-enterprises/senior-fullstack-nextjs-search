@@ -13,7 +13,6 @@ Build a search application that:
 ## OUTCOME:
 You should build something like this:
 
-
 ## DESIGNS:
 
 ### PAGE DESIGN DESKTOP
@@ -24,3 +23,26 @@ You should build something like this:
 
 ### PAGE DESIGN MOBILE
 ![page design mobile view](./page_design_mobile.svg)
+
+
+## TECHNICAL REQUIREMENTS:
+
+This is a simple application but your code and structure will be assessed. So please give it meaningful importance.
+UI doesn’t have to be very fancy but make it friendly to a user is a must.
+
+**You must use:**
+- React
+- Typescript
+- Unit Testing
+
+**You can use:**
+- Any library that makes sense
+
+**Bonus:**
+- Deploy and host your project to AWS or other cloud services is a bonus.
+- Mobile friendly is a BIG bonus.
+- Performant code will be looked very positively.
+
+If this sounds too simple for you, add some additional features to this plain and boring App
+
+Good luck and have fun!
